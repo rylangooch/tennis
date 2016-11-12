@@ -20,10 +20,9 @@ being called on your class, and similarly
 wonPoint(“player2”) for the other button. Afterwards, you
 will get a call “getScore()” from the scoreboard asking what it
 should display. This method should return a string with the
-current score. (Note: do modify the method names to match
-the idiom for your programming language)
+current score.
 
-Summary:
+Scoring summary:
 ```
 1. A game is won by the first player to have won at least
 four points in total and at least two points more than
